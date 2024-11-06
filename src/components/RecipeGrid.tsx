@@ -1,35 +1,3 @@
-// import RecipeCard from './RecipeCard'
-
-// type Meal = {
-//   strMeal: string
-//   strMealThumb: string
-//   idMeal: string
-// }
-
-// type RecipeGridProps = {
-//   meals: Meal[]
-//   loading: boolean
-// }
-
-// export default function RecipeGrid({ meals, loading }: RecipeGridProps) {
-//   return (
-//     <div>
-//       {meals.length > 0 && (
-//         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-//           {meals.map((meal) => (
-//             <RecipeCard key={meal.idMeal} meal={meal} />
-//           ))}
-//         </div>
-//       )}
-//       {meals.length === 0 && !loading && (
-//         <p className="text-center text-gray-600 bg-white p-4 rounded-lg shadow">
-//           No recipes found for this ingredient. Try another one!
-//         </p>
-//       )}
-//     </div>
-//   )
-// }
-
 import RecipeCard from './RecipeCard'
 
 type Meal = {
