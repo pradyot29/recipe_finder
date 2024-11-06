@@ -1,4 +1,5 @@
 # Recipe Finder App 🍳
+[View on Eraser![](https://app.eraser.io/workspace/fw1zXpGm1cibJafdu6iG/preview?elements=PVF1pr8z5KB66KMM27mSwA&type=embed)](https://app.eraser.io/workspace/fw1zXpGm1cibJafdu6iG?elements=PVF1pr8z5KB66KMM27mSwA)
 
 A React-based recipe finder application that helps busy professionals discover recipes based on available ingredients. Built with Vite, React, TypeScript, and Tailwind CSS.
 
